@@ -36,6 +36,7 @@ wallet_id,score
 ...
 ```
 Scores range from 0 (highest risk) to 1000 (lowest risk).
+
 ---
 ## Notes
 * API calls are cached in cache/ to avoid redundant requests.
